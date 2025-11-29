@@ -27,8 +27,8 @@ End the program.
 
 
 ## Program:
-### Developed By   : RAHINI A
-### Register Number: 212223230165
+### Developed By   : SANDHIYA P
+### Register Number: 212223230183
 </br>
 
 ### 1. Smoothing Filters
